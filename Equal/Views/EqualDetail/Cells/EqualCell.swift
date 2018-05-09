@@ -1,5 +1,5 @@
 //
-//  EqualBalanceCell.swift
+//  EqualCell.swift
 //  Equal
 //
 //  Created by Alexis DARNAT on 5/5/18.

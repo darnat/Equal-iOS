@@ -1,5 +1,5 @@
 //
-//  Synchronize.swift
+//  Synchronizable.swift
 //  Equal
 //
 //  Created by Alexis DARNAT on 4/22/18.
